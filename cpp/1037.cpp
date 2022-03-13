@@ -1,3 +1,8 @@
+/*
+ * @ NAME: penetrick0
+ * @ URL: https://www.acmicpc.net/problem/1037
+ */
+
 #include <iostream>
 
 using namespace std;
